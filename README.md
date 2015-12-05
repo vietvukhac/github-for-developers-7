@@ -1,4 +1,4 @@
-## Welcome to GitHub Training
+## Welcome to GitHub Trainingg
 
 ## Class Goals
 
